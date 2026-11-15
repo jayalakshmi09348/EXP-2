@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | JayaLakshmi P | **Reg. No.:** |26018231 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |15.11.2026 | **Batch / Section:** | |
 
 ---
 
@@ -66,13 +66,13 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test – simulation
 
-*[ Paste the Virtual Lab OCC simulation screenshot here ]*
+<img width="1277" height="777" alt="WhatsApp Image 2026-10-13 at 1 24 43 PM" src="https://github.com/user-attachments/assets/6f3f1dd3-f77d-47ac-923f-3b11404a8b56" />
 
 **Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
 
-*[ Paste the Virtual Lab load test simulation screenshot here ]*
+<img width="1600" height="715" alt="WhatsApp Image 2026-10-06 at 2 40 29 PM" src="https://github.com/user-attachments/assets/ffaf6578-aa7e-4bb2-9aba-a080d06fadbf" />
 
 **Figure 3:** Virtual Lab simulation – load test
 
@@ -80,29 +80,12 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test
 
-| S. No. | Field current If (A) | Generated EMF Eg (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+<img width="297" height="285" alt="Screenshot 2026-11-15 213114" src="https://github.com/user-attachments/assets/0f3213b0-2b45-449f-89e8-2ba923b56908" />
 
 ### B. Load test
 
-| S. No. | Load current IL (A) | Load voltage VL (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+<img width="362" height="293" alt="Screenshot 2026-11-15 213035" src="https://github.com/user-attachments/assets/0e8e3cda-5f84-4e38-ba4a-a6f78e672a85" />
+
 
 ## FORMULA
 
@@ -114,13 +97,17 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 
 ### A. Open circuit characteristics (If vs Eg)
 
-*[ Paste / draw the OCC graph here ]*
+<img width="645" height="297" alt="image" src="https://github.com/user-attachments/assets/5fec6adb-d072-4351-9c7c-5cf7aacbfed5" />
+
 
 **Figure 4:** Open circuit characteristics
 
 ### B. Load characteristics (IL vs VL)
 
-*[ Paste / draw the load characteristics graph here ]*
+<img width="1600" height="528" alt="WhatsApp Image 2026-10-06 at 2 39 05 PM" src="https://github.com/user-attachments/assets/724482a3-57a8-41df-9d3c-54d29d0af061" />
+
+
+
 
 **Figure 5:** Load characteristics
 
